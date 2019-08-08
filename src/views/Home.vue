@@ -1,18 +1,22 @@
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div>
+    <div class="main-image">
+      <h1 class="main-image-title mb-5">
+        Hello World! <span>by<span class="yutaka">Yutaka</span></span>
+      </h1>
+      <p style="color:gray;">はじめまして、Yutakaです。<br>このサイトはYutakaの自己紹介サイトです。</p>
+    </div>
   </div>
 </template>
-
-<script>
-// @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue'
-
-export default {
-  name: 'home',
-  components: {
-    HelloWorld
+<style scoped>
+  .main-image-title {
+    font-size: 70px;
+    padding-top: 250px;
   }
+  span {
+    font-size: 50px;
+  }
+  .yutaka{
+  color:rgba(65,184,131);
 }
-</script>
+</style>
