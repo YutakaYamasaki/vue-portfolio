@@ -26,15 +26,15 @@
             </tr>
             <tr>
               <td>Qiita</td>
-              <td><a href="#">YutakaYamasaki</a></td>
+              <td><a href="#">##</a></td>
             </tr>
             <tr>
               <td>Github</td>
-              <td><a href="#">YutakaYamasaki</a></td>
+              <td><a href="#">###</a></td>
             </tr>
             <tr>
               <td>Twitter</td>
-              <td><a href="#">y_yutaka0506</a></td>
+              <td><a href="#">###</a></td>
             </tr>
           </tbody>
         </table>
