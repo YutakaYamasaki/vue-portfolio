@@ -2,9 +2,8 @@
   <div>
     <div class="main-image">
       <h1 class="main-image-title mb-5">
-        Hello World! <span>by<span class="yutaka">Yutaka</span></span>
+        Hello World!
       </h1>
-      <p style="color:gray;">はじめまして、Yutakaです。<br>このサイトはYutakaの自己紹介サイトです。</p>
     </div>
   </div>
 </template>
